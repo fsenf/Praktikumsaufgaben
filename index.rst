@@ -13,10 +13,10 @@ Intro
 ---------
 Folgende Aufgaben sind abgelegt
 
-.. image:: rainsphere.png
-            :width: 500 px
-            
 * :doc:`Satelliten-basierte Niederschlagsmessung  <Satellite_based_Precip>` 
+.. image:: rainsphere.png
+            :width: 300 px
+            
 
 .. toctree::
    :maxdepth: 1 
