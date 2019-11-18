@@ -8,6 +8,10 @@ Willkommen zu einer Sammlung von Praktikumsaufgaben
 
 Intro
 -----
+Hier befindet sich eine kleine Sammlung von Aufgaben und Ideen, mit denen sich Praktikanten 
+bei mir am TROPOS beschäftigen könnten. Für Schülerpraktikanten sollte man vielleicht nur
+den leichteren Teil der Aufgaben auswählen.
+
 
 Übersicht
 ---------
