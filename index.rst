@@ -13,13 +13,12 @@ Intro
 ---------
 Folgende Aufgaben sind abgelegt
 
-* **Satelliten-basierte Niederschlagsmessung**
-  :doc:`link  <Satellite_based_Precip>` 
+* :doc:`**Satelliten-basierte Niederschlagsmessung**  <Satellite_based_Precip>` 
 
 .. toctree::
    :maxdepth: 1 
    :hidden:
-   :caption: iUebersicht
+   :caption: Uebersicht
    
     Satellite_based_Precip
    
