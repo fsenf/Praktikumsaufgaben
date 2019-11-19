@@ -20,6 +20,9 @@ Folgende Aufgaben sind abgelegt
 * :doc:`Satelliten-basierte Niederschlagsmessung  <Satellite_based_Precip>` 
 .. image:: rainsphere.png
             :width: 300 px
+* :doc:`Wolken und ihre Klimawirkung  <Wolken_und_ihre_Klimawirkung>` 
+.. image:: IPCC-Cloud-Fraction.png
+            :width: 300 px
             
 
 .. toctree::
@@ -28,6 +31,6 @@ Folgende Aufgaben sind abgelegt
    :caption: Uebersicht
    
    Satellite_based_Precip
-   
+   Wolken_und_ihre_Klimawirkung   
 
 
