@@ -20,25 +20,24 @@ Folgende Aufgaben sind abgelegt
 * :doc:`Satelliten-basierte Niederschlagsmessung  <Satellite_based_Precip>` 
 .. image:: rainsphere.png
             :width: 300 px
-* :doc:`Wolken und ihre Klimawirkung  <Wolken_und_ihre_Klimawirkung>` 
+* :doc:`Wolken und ihre Klimawirkung  <Wolken_und_ihre_Klimawirkung>` wird durch das Jupyter Notebook `Analyse von globale ICON Simulationen  <Analyse_von_globalen_ICON_Simulationen>` vertieft
 .. image:: IPCC-Cloud-Fraction.png
             :width: 300 px
 
 
-Dieses Jupyter Notebook unterstützt die Aufgabe:
-
-* :doc:`Analyse von globale ICON Simulationen  <Analyse_von_globalen_ICON_Simulationen>` soll die Aufgabe "Wolken und ihre Klimawirkung" unterstützen
-
-
-            
-
 .. toctree::
    :maxdepth: 1 
    :hidden:
-   :caption: Uebersicht
+   :caption: Aufgaben
    
    Satellite_based_Precip
    Wolken_und_ihre_Klimawirkung 
+  
+.. toctree::
+   :maxdepth: 1 
+   :hidden:
+   :caption: Jupyter Notebooks
+  
    Analyse_von_globalen_ICON_Simulationen
 
 
