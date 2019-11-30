@@ -23,6 +23,13 @@ Folgende Aufgaben sind abgelegt
 * :doc:`Wolken und ihre Klimawirkung  <Wolken_und_ihre_Klimawirkung>` 
 .. image:: IPCC-Cloud-Fraction.png
             :width: 300 px
+
+
+Dieses Jupyter Notebook unterstützt die Aufgabe:
+
+* :doc:`Analyse von globale ICON Simulationen  <Analyse_von_globalen_ICON_Simulationen>` soll die Aufgabe "Wolken und ihre Klimawirkung" unterstützen
+
+
             
 
 .. toctree::
@@ -31,6 +38,7 @@ Folgende Aufgaben sind abgelegt
    :caption: Uebersicht
    
    Satellite_based_Precip
-   Wolken_und_ihre_Klimawirkung   
+   Wolken_und_ihre_Klimawirkung 
+   Analyse_von_globalen_ICON_Simulationen
 
 
