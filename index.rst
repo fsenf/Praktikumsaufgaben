@@ -23,7 +23,7 @@ Folgende Aufgaben sind abgelegt
 * :doc:`Wolken und ihre Klimawirkung  <Wolken_und_ihre_Klimawirkung>` wird durch das Jupyter Notebook :doc:`Analyse von globale ICON Simulationen  <Analyse_von_globalen_ICON_Simulationen>` vertieft
 .. image:: IPCC-Cloud-Fraction.png
             :width: 300 px
-* :doc:`Feinstaub und Luftqualität  <Feinstaub_und_Luftqualitaet>` 
+* :doc:`Feinstaub und Luftqualität  <Feinstaub_und_Luftqualitaet>` wird durch das Jupyter Notebook :doc:`Analyse von modellierten und gemessenen Luftqualitätsdaten  <Luftqualitaet_Modeldaten_plotten>` vertieft
 .. image:: Luftverschmutzung.jpg
             :width: 300 px
 
@@ -42,5 +42,6 @@ Folgende Aufgaben sind abgelegt
    :caption: Jupyter Notebooks
   
    Analyse_von_globalen_ICON_Simulationen
+   Luftqualitaet_Modeldaten_plotten
 
 
