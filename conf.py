@@ -1,19 +1,32 @@
+"""This file is used to configure the Sphinx build of our documentation.
+The documentation on setting this up is here: https://www.sphinx-doc.org/en/master/usage/configuration.html 
+"""
+
+# This is the standard readthedocs theme.
+import sphinx_rtd_theme
+import sys, os
+
+sys.path.insert(0, os.path.abspath("extensions"))
+
+# What Sphinx extensions do we need
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.mathjax',
-    'sphinx.ext.viewcode',
-    'nbsphinx',
-    # 'IPython.sphinxext.ipython_console_highlighting',
+    "sphinx.ext.autodoc",
+    "sphinx.ext.doctest",
+    "sphinx.ext.todo",
+    "sphinx.ext.coverage",
+    "sphinx.ext.imgmath",
+    "sphinx.ext.ifconfig",
+    "sphinx_rtd_theme",
+    "sphinx.ext.napoleon",
+    "nbsphinx",
 ]
 
-exclude_patterns = ['_build', '**.ipynb_checkpoints']
 
-# Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+html_theme = "sphinx_rtd_theme"
+nbsphinx_execute = 'never'
 
-source_suffix = '.rst'
-
+html_static_path = ["_static"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 # The master toctree document.
 master_doc = 'index'
@@ -28,34 +41,6 @@ version = u'0.1'
 # The full version, including alpha/beta/rc tags.
 release = u'0.1'
 
-language = None
 
+pygments_style = "sphinx"
 
-
-# The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
-
-# A list of ignored prefixes for module index sorting.
-# modindex_common_prefix = []
-
-# If true, keep warnings as "system message" paragraphs in the built documents.
-# keep_warnings = False
-
-# If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = False
-
-
-# -- Options for HTML output ----------------------------------------------
-
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-#
-html_theme = 'sphinx_rtd_theme'
-
-html_static_path = ['_static']
-
-# Output file base name for HTML help builder.
-htmlhelp_basename = 'nbsphinx-rtd-testdoc'
-
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'https://docs.python.org/': None}

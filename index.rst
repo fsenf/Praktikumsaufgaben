@@ -28,14 +28,14 @@ Folgende Aufgaben sind abgelegt
             :width: 300 px
 
 
-
 .. toctree::
    :maxdepth: 1 
    :hidden:
    :caption: Aufgaben
    
    Satellite_based_Precip
-   Wolken_und_ihre_Klimawirkung 
+   Wolken_und_ihre_Klimawirkung
+   Feinstaub_und_Luftqualitaet
   
 .. toctree::
    :maxdepth: 1 
@@ -43,5 +43,6 @@ Folgende Aufgaben sind abgelegt
    :caption: Jupyter Notebooks
   
    Analyse_von_globalen_ICON_Simulationen
+   Luftqualitaet_Modeldaten_plotten
 
 
