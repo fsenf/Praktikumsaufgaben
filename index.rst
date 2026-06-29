@@ -15,7 +15,7 @@ der leichtere Teil der Aufgaben ausgewählt werden.
 
 Übersicht
 ---------
-Aus folgende Aufgaben kann eine ausgewählt werden:
+Aus folgenden Aufgaben kann eine ausgewählt werden:
 
 * :doc:`Satelliten-basierte Niederschlagsmessung  <aufgabe01/Satellite_based_Precip>` 
 .. image:: aufgabe01/rainsphere.png
