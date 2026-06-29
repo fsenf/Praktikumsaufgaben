@@ -9,13 +9,13 @@ Willkommen zu einer Sammlung von Praktikumsaufgaben
 Intro
 -----
 Hier befindet sich eine kleine Sammlung von Aufgaben und Ideen, mit denen sich Praktikanten 
-bei mir am TROPOS beschäftigen könnten. Für Schülerpraktikanten sollte man vielleicht nur
-den leichteren Teil der Aufgaben auswählen.
+bei uns am TROPOS beschäftigen könnten. Für Schülerpraktikanten sollte vielleicht nur
+der leichtere Teil der Aufgaben ausgewählt werden.
 
 
 Übersicht
 ---------
-Folgende Aufgaben sind abgelegt
+Aus folgende Aufgaben kann eine ausgewählt werden:
 
 * :doc:`Satelliten-basierte Niederschlagsmessung  <Satellite_based_Precip>` 
 .. image:: rainsphere.png
@@ -31,18 +31,24 @@ Folgende Aufgaben sind abgelegt
 .. toctree::
    :maxdepth: 1 
    :hidden:
-   :caption: Aufgaben
+   :caption: Aufgabe 1
    
    Satellite_based_Precip
-   Wolken_und_ihre_Klimawirkung
-   Feinstaub_und_Luftqualitaet
-  
+
 .. toctree::
    :maxdepth: 1 
    :hidden:
-   :caption: Jupyter Notebooks
-  
+   :caption: Aufgabe 2
+   
+   Wolken_und_ihre_Klimawirkung
    Analyse_von_globalen_ICON_Simulationen
+
+.. toctree::
+   :maxdepth: 1 
+   :hidden:
+   :caption: Aufgabe 3
+   
+   Feinstaub_und_Luftqualitaet
    Luftqualitaet_Modeldaten_plotten
 
 
