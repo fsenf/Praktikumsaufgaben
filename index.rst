@@ -17,14 +17,14 @@ der leichtere Teil der Aufgaben ausgewählt werden.
 ---------
 Aus folgende Aufgaben kann eine ausgewählt werden:
 
-* :doc:`Satelliten-basierte Niederschlagsmessung  <Satellite_based_Precip>` 
-.. image:: rainsphere.png
+* :doc:`Satelliten-basierte Niederschlagsmessung  <aufgabe01/Satellite_based_Precip>` 
+.. image:: aufgabe01/rainsphere.png
             :width: 300 px
-* :doc:`Wolken und ihre Klimawirkung  <Wolken_und_ihre_Klimawirkung>` wird durch das Jupyter Notebook :doc:`Analyse von globale ICON Simulationen  <Analyse_von_globalen_ICON_Simulationen>` vertieft
-.. image:: IPCC-Cloud-Fraction.png
+* :doc:`Wolken und ihre Klimawirkung  <aufgabe02/Wolken_und_ihre_Klimawirkung>` wird durch das Jupyter Notebook :doc:`Analyse von globale ICON Simulationen  <aufgabe02/Analyse_von_globalen_ICON_Simulationen>` vertieft
+.. image:: aufgabe02/IPCC-Cloud-Fraction.png
             :width: 300 px
-* :doc:`Feinstaub und Luftqualität  <Feinstaub_und_Luftqualitaet>` 
-.. image:: Luftverschmutzung.jpg
+* :doc:`Feinstaub und Luftqualität  <aufgabe03/Feinstaub_und_Luftqualitaet>` 
+.. image:: aufgabe03/Luftverschmutzung.jpg
             :width: 300 px
 
 
@@ -33,22 +33,22 @@ Aus folgende Aufgaben kann eine ausgewählt werden:
    :hidden:
    :caption: Aufgabe 1
    
-   Satellite_based_Precip
+   Analyse: Satelliten-basierte Niederschlagsmessung <aufgabe01/Satellite_based_Precip>
 
 .. toctree::
    :maxdepth: 1 
    :hidden:
    :caption: Aufgabe 2
    
-   Wolken_und_ihre_Klimawirkung
-   Analyse_von_globalen_ICON_Simulationen
+   Thema: Wolken und ihre Klimawirkung <aufgabe02/Wolken_und_ihre_Klimawirkung>
+   Analyse: Globale ICON Simulationen <aufgabe02/Analyse_von_globalen_ICON_Simulationen>
 
 .. toctree::
    :maxdepth: 1 
    :hidden:
    :caption: Aufgabe 3
    
-   Feinstaub_und_Luftqualitaet
-   Luftqualitaet_Modeldaten_plotten
+   Thema: Feinstaub und Luftqualität <aufgabe03/Feinstaub_und_Luftqualitaet>
+   Analyse: Modeldaten plotten <aufgabe03/Luftqualitaet_Modeldaten_plotten>
 
 
